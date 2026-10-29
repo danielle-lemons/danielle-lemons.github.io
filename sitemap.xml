@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url><loc>https://danielle-lemons.github.io/</loc></url>
 <url><loc>https://danielle-lemons.github.io/about.html</loc></url>
 <url><loc>https://danielle-lemons.github.io/links.html</loc></url>
+<url><loc>https://danielle-lemons.github.io/photos.html</loc><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-green-blazer.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-pink-suit-portrait.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-titans-stadium-hard-hat.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-pink-suit-full-length.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-office-badge.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-elevator-tweed-suit.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-green-blazer-glasses.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-black-top-gold-chain.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-navy-blazer-car.webp</image:loc></image:image><image:image><image:loc>https://danielle-lemons.github.io/img/danielle-lemons-plaid-jacket.webp</image:loc></image:image></url>
 </urlset>
