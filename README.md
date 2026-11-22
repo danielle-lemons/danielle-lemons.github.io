@@ -18,4 +18,4 @@ Static HTML, no build step. Files: `index.html`, `about.html`, `links.html`, `st
 - [Scribd (free guide sample)](https://www.scribd.com/document/1091079249/The-Small-Business-Technology-Guide-by-Danielle-Lemons-Free-Sample)
 - [DirecTech Connect bio](https://directech.net/danielle-lemons/)
 
-Contact: danielle@directech.net, 615-861-9042.
+Contact: danielle@directech.net, 866-832-7117 ext. 2104.
